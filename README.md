@@ -18,3 +18,5 @@ While the code worked on codepen *https://codepen.io/cleargoal_edu/pen/XWeqONB* 
 I kept getting *Uncaught TypeError: Cannot read property of null (reading 'addEventListener')*. Then, I googled. Boom, I got the answer!
 
 Google is so good, and useful.
+
+The embedded video is both for record and practice purposes only. It can be removed at any convenient time. 

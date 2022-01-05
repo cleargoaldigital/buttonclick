@@ -43,3 +43,8 @@ html {
     padding: 45px;
     color: #fff;
   }
+
+  figure{
+      text-align: center;
+      margin: 20px auto;
+  }
